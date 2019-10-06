@@ -1,0 +1,388 @@
+INSERT INTO GRUPA
+VALUES('A');
+
+INSERT INTO GRUPA
+VALUES('B');
+
+INSERT INTO GRUPA
+VALUES('C');
+
+INSERT INTO GRUPA
+VALUES('D');
+
+INSERT INTO GRUPA
+VALUES('E');
+
+INSERT INTO GRUPA
+VALUES('F');
+
+INSERT INTO GRUPA
+VALUES('G');
+
+INSERT INTO GRUPA
+VALUES('H');
+
+INSERT INTO TRENER 
+VALUES (1, 'Fernando', 'Jerro');--SPAIN
+
+INSERT INTO TRENER 
+VALUES (2, 'Fernandu', 'Santush');--PORTUGAL
+
+INSERT INTO TRENER 
+VALUES (3, 'Didier', 'Deschamps');--FRANCE
+
+INSERT INTO TRENER 
+VALUES (4, 'Bert', 'van Marwijk');--AUSTRALIA
+
+INSERT INTO TRENER 
+VALUES (5, 'Stanislaw', 'Cherchesow');--RUSSIA
+
+INSERT INTO TRENER 
+VALUES (6, 'Oscar', 'Tabarez');--URUGUAY
+
+INSERT INTO TRENER 
+VALUES (7, 'Jorge', 'Sampaoli');--ARGENTINA
+
+INSERT INTO TRENER 
+VALUES (8, 'Zlatko', 'Dalic');--CROATIA
+
+INSERT INTO TRENER 
+VALUES (9, 'Vladimir', 'Petkovic');--SWITZERLAND
+
+INSERT INTO TRENER 
+VALUES (10, 'Adenor', 'Bacchi');--BRAZIL
+
+
+INSERT INTO DRUZYNA
+VALUES (1, 'Hispania', 1, 'B'); 
+
+INSERT INTO DRUZYNA
+VALUES (2, 'Portugalia', 2, 'B'); 
+
+INSERT INTO DRUZYNA
+VALUES (3, 'Francja', 3, 'C'); 
+
+INSERT INTO DRUZYNA
+VALUES (4, 'Australia', 4, 'C'); 
+
+INSERT INTO DRUZYNA
+VALUES (5, 'Rosja', 5, 'A'); 
+
+INSERT INTO DRUZYNA
+VALUES (6, 'Urugwaj', 6, 'A'); 
+
+INSERT INTO DRUZYNA
+VALUES (7, 'Argentyna', 7, 'D'); 
+
+INSERT INTO DRUZYNA
+VALUES (8, 'Chorwacja', 8, 'D'); 
+
+INSERT INTO DRUZYNA
+VALUES (9, 'Szwajcarija', 9, 'E'); 
+
+INSERT INTO DRUZYNA
+VALUES (10, 'Brazylia', 10, 'E'); 
+
+
+--HISZPANIA
+
+
+INSERT INTO PILKARZ
+VALUES (1, 'David', 'de Gea', 1, 1);
+
+INSERT INTO PILKARZ
+VALUES (2, 'Kepa', 'Arrizabalaga', 13, 1);
+
+INSERT INTO PILKARZ
+VALUES (3, 'Pepe', 'Reina', 23, 1);
+
+INSERT INTO PILKARZ
+VALUES (4, 'Cesar', 'Azpilicueta', 2, 1);
+
+INSERT INTO PILKARZ
+VALUES (5, 'Gerard', 'Pique', 3, 1);
+
+INSERT INTO PILKARZ
+VALUES (6, 'Nacho', ' ', 4, 1);
+
+INSERT INTO PILKARZ
+VALUES (7, 'Alvaro', 'Odriozola', 12, 1);
+
+INSERT INTO PILKARZ
+VALUES (8, 'Sergio', 'Ramos', 15, 1);
+
+INSERT INTO PILKARZ
+VALUES (9, 'Nacho', 'Monreal', 16, 1);
+
+INSERT INTO PILKARZ
+VALUES (10, 'Jordi', 'Alba', 18, 1);
+
+INSERT INTO PILKARZ
+VALUES (11, 'Dani', 'Carvajal', 20, 1);
+
+INSERT INTO PILKARZ
+VALUES (12, 'Sergio', 'Busquets', 5, 1);
+
+INSERT INTO PILKARZ
+VALUES (13, 'Andres', 'Iniesta', 6, 1);
+
+INSERT INTO PILKARZ
+VALUES (14, 'Saul', 'Niguez', 7, 1);
+
+INSERT INTO PILKARZ
+VALUES (15, 'Koke', ' ', 8, 1);
+
+INSERT INTO PILKARZ
+VALUES (16, 'Thiago', 'Alcantara', 10, 1);
+
+INSERT INTO PILKARZ
+VALUES (17, 'Marco', 'Asensio', 14, 1);
+
+INSERT INTO PILKARZ
+VALUES (18, 'David', 'Silva', 21, 1);
+
+INSERT INTO PILKARZ
+VALUES (19, 'Isco', ' ', 22, 1);
+
+INSERT INTO PILKARZ
+VALUES (20, 'Rodrigo', 'Moreno', 9, 1);
+
+INSERT INTO PILKARZ
+VALUES (21, 'Iago', 'Aspas', 11, 1);
+
+INSERT INTO PILKARZ
+VALUES (22, 'Lucas', 'Vazquez', 17, 1);
+
+INSERT INTO PILKARZ
+VALUES (23, 'Diego', 'Costa', 19, 1);
+
+
+--PORTUGALIA
+
+
+INSERT INTO PILKARZ
+VALUES (24, 'Rui', 'Patricio', 1, 2);
+
+INSERT INTO PILKARZ
+VALUES (25, 'Anthony', 'Lopes', 12, 2);
+
+INSERT INTO PILKARZ
+VALUES (26, 'Beto', ' ', 22, 2);
+
+INSERT INTO PILKARZ
+VALUES (27, 'Bruno', 'Alves', 2, 2);
+
+INSERT INTO PILKARZ
+VALUES (28, 'Pepe', ' ', 3, 2);
+
+INSERT INTO PILKARZ
+VALUES (29, 'Raphael', 'Guerreiro', 5, 2);
+
+INSERT INTO PILKARZ
+VALUES (30, 'Jose', 'Fonte', 6, 2);
+
+INSERT INTO PILKARZ
+VALUES (31, 'Ruben', 'Dias', 13, 2);
+
+INSERT INTO PILKARZ
+VALUES (32, 'Ricardo', 'Pereira', 15, 2);
+
+INSERT INTO PILKARZ
+VALUES (33, 'Mario', 'Rui', 19, 2);
+
+INSERT INTO PILKARZ
+VALUES (34, 'Cedric', ' ', 21, 2);
+
+INSERT INTO PILKARZ
+VALUES (35, 'Manuel', 'Fernandes', 4, 2);
+
+INSERT INTO PILKARZ
+VALUES (36, 'Joao', 'Moutinho', 8, 2);
+
+INSERT INTO PILKARZ
+VALUES (37, 'Joao', 'Mario', 10, 2);
+
+INSERT INTO PILKARZ
+VALUES (38, 'Bernardo', 'Silva', 11, 2);
+
+INSERT INTO PILKARZ
+VALUES (39, 'William', 'Carvalho', 14, 2);
+
+INSERT INTO PILKARZ
+VALUES (40, 'Bruno', 'Fernandes', 16, 2);
+
+INSERT INTO PILKARZ
+VALUES (41, 'Adrien', 'Silva', 23, 2);
+
+INSERT INTO PILKARZ
+VALUES (42, 'Cristiano', 'Ronaldo', 7, 2);
+
+INSERT INTO PILKARZ
+VALUES (43, 'Andre', 'Silva', 9, 2);
+
+INSERT INTO PILKARZ
+VALUES (44, 'Goncalo', 'Guedes', 17, 2);
+
+INSERT INTO PILKARZ
+VALUES (45, 'Gelson', 'Martins', 18, 2);
+
+INSERT INTO PILKARZ
+VALUES (46, 'Ricardo', 'Quaresma', 20, 2);
+
+
+--ARGENTYNA
+
+
+INSERT INTO PILKARZ
+VALUES (47, 'Nahuel', 'Guzman', 1, 7);
+
+INSERT INTO PILKARZ
+VALUES (48, 'Franco', 'Armani', 12, 7);
+
+INSERT INTO PILKARZ
+VALUES (49, 'Willy', 'Caballero', 23, 7);
+
+INSERT INTO PILKARZ
+VALUES (50, 'Gabriel', 'Mercado', 2, 7);
+
+INSERT INTO PILKARZ
+VALUES (51, 'Nicolas', 'Tagliafico', 3, 7);
+
+INSERT INTO PILKARZ
+VALUES (52, 'Cristian', 'Ansaldi', 4, 7);
+
+INSERT INTO PILKARZ
+VALUES (53, 'Federico', 'Fazio', 6, 7);
+
+INSERT INTO PILKARZ
+VALUES (54, 'Javier', 'Mascherano', 14, 7);
+
+INSERT INTO PILKARZ
+VALUES (55, 'Marcos', 'Rojo', 16, 7);
+
+INSERT INTO PILKARZ
+VALUES (56, 'Nicolas', 'Otamendi', 17, 7);
+
+INSERT INTO PILKARZ
+VALUES (57, 'Lucas', 'Biglia', 5, 7);
+
+INSERT INTO PILKARZ
+VALUES (58, 'Marcos', 'Acuna', 8, 7);
+
+INSERT INTO PILKARZ
+VALUES (59, 'Angel', 'Di', 11, 7);
+
+INSERT INTO PILKARZ
+VALUES (60, 'Maximiliano', 'Meza', 13, 7);
+
+INSERT INTO PILKARZ
+VALUES (61, 'Manuel', 'Lanzini', 15, 7);
+
+INSERT INTO PILKARZ
+VALUES (62, 'Eduardo', 'Salvio', 18, 7);
+
+INSERT INTO PILKARZ
+VALUES (63, 'Ever', 'Banega', 19, 7);
+
+INSERT INTO PILKARZ
+VALUES (64, 'Giovani', 'Lo', 20, 7);
+
+INSERT INTO PILKARZ
+VALUES (65, 'Cristian', 'Pavon', 22, 7);
+
+INSERT INTO PILKARZ
+VALUES (66, 'Sergio', 'Aguero', 7, 7);
+
+INSERT INTO PILKARZ
+VALUES (67, 'Gonzalo', 'Higuain', 9, 7);
+
+INSERT INTO PILKARZ
+VALUES (68, 'Lionel', 'Messi', 10, 7);
+
+INSERT INTO PILKARZ
+VALUES (69, 'Paulo', 'Dybala', 21, 7);
+
+
+INSERT INTO MIASTO
+VALUES (1, 'Moskwa');
+
+INSERT INTO MIASTO
+VALUES (2, 'Petersburg');
+
+INSERT INTO MIASTO
+VALUES (3, 'Kaliningrad');
+
+INSERT INTO MIASTO
+VALUES (4, 'Rostow nad Donem');
+
+INSERT INTO MIASTO
+VALUES (5, 'Soczi');
+
+INSERT INTO MIASTO
+VALUES (6, 'Kazan');
+
+
+
+INSERT INTO STADION
+VALUES (1, 'Stadion Luzniki',1);
+
+INSERT INTO STADION
+VALUES (2, 'Otkrytije Arena',1);
+
+INSERT INTO STADION
+VALUES (3, 'Stadion Kriestowskij',2);
+
+INSERT INTO STADION
+VALUES (4, 'Stadion Kaliningrad',3);
+
+INSERT INTO STADION
+VALUES (5, 'Rostow Arena',4);
+
+INSERT INTO STADION
+VALUES (6, 'Stadion Olimpijski',5);
+
+INSERT INTO STADION
+VALUES (7, 'Kazan Arena',6);
+
+
+INSERT INTO MECZ
+VALUES (1, 1, 2, '15-06-2018', 3, 3, 6);
+
+INSERT INTO MECZ
+VALUES (2, 3, 4, '16-06-2018', 2, 1, 7);
+
+
+INSERT INTO ROLAPIKARZA
+VALUES (1, 1, 'Bramkarz');
+
+INSERT INTO ROLAPIKARZA
+VALUES (10, 1, 'Obronca');
+
+INSERT INTO ROLAPIKARZA
+VALUES (8, 1, 'Obronca');
+
+INSERT INTO ROLAPIKARZA
+VALUES (5, 1, 'Obronca');
+
+INSERT INTO ROLAPIKARZA
+VALUES (9, 1, 'Obronca');
+
+INSERT INTO ROLAPIKARZA
+VALUES (13, 1, 'Pomocnik');
+
+INSERT INTO ROLAPIKARZA
+VALUES (12, 1, 'Pomocnik');
+
+INSERT INTO ROLAPIKARZA
+VALUES (15, 1, 'Pomocnik');
+
+INSERT INTO ROLAPIKARZA
+VALUES (19, 1, 'Napastnik');
+
+INSERT INTO ROLAPIKARZA
+VALUES (23, 1, 'Napastnik');
+
+INSERT INTO ROLAPIKARZA
+VALUES (18, 1, 'Napastnik');
+
+--End of file
